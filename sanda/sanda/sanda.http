@@ -1,0 +1,6 @@
+@sanda_HostAddress = http://localhost:5298
+
+GET {{sanda_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
